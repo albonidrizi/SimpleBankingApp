@@ -1,0 +1,6 @@
+com\banking\BankingApp\model\DepositModel.class
+com\banking\BankingApp\BankingAppApplication.class
+com\banking\BankingApp\model\Account.class
+com\banking\BankingApp\repository\AccountRepository.class
+com\banking\BankingApp\model\TransferModel.class
+com\banking\BankingApp\controller\AccountController.class
